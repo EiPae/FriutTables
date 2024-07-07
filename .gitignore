@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/FriutTables/bin
+/FriutTables/FriutTables.csproj.user
+/FriutTables/obj
